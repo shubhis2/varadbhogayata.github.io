@@ -86,7 +86,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #991a44;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -117,7 +117,7 @@
 }
 
 .contactme:hover {
-  color: #00796b;
+  color: #70174e;
   background-color: white;
 }
 
@@ -142,7 +142,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #70154b;
 }
 
 /* main blockqoute */
@@ -554,7 +554,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #6c244d !important;
 }
 
 /* .teal-text {
@@ -564,7 +564,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #9d5d84 !important;
 }
 
 /* .teal {
@@ -611,7 +611,7 @@ small {
 
   nav a.button-collapse,
   nav a.button-collapse i {
-    color: #009688;
+    color: #883a58;
     height: 56px;
     line-height: 56px;
   }
